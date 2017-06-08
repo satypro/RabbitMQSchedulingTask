@@ -1,0 +1,8 @@
+/home/satypro/SurveyWorker/bin/Debug/netcoreapp1.0/SurveyWorker.deps.json
+/home/satypro/SurveyWorker/bin/Debug/netcoreapp1.0/SurveyWorker.runtimeconfig.json
+/home/satypro/SurveyWorker/bin/Debug/netcoreapp1.0/SurveyWorker.runtimeconfig.dev.json
+/home/satypro/SurveyWorker/bin/Debug/netcoreapp1.0/SurveyWorker.dll
+/home/satypro/SurveyWorker/bin/Debug/netcoreapp1.0/SurveyWorker.pdb
+/home/satypro/SurveyWorker/obj/Debug/netcoreapp1.0/SurveyWorker.AssemblyInfo.cs
+/home/satypro/SurveyWorker/obj/Debug/netcoreapp1.0/SurveyWorker.dll
+/home/satypro/SurveyWorker/obj/Debug/netcoreapp1.0/SurveyWorker.pdb
